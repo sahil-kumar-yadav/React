@@ -6,5 +6,6 @@
 - single page application --> those application which appear only one page in front
 - can be used in multi page of react
 - react is ui libaray based on reusable component 
+- vite (quick) toolchain 
 
 ![alt text](image.png)
